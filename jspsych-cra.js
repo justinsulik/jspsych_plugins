@@ -1,6 +1,12 @@
 /*
- Plugin for Compound Remote Associate problems
-to do:
+ jspsych plugin for Compound Remote Associate problems
+
+ // Author: Justin Sulik
+ // Contact:
+ //  justin.sulik@gmail.com
+ //  twitter.com/justinsulik
+ //  github.com/justinsulik
+ //  justinsulik.com
 
  */
 

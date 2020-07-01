@@ -1,7 +1,15 @@
 /*
 Description: jsPsych plugin for a task where the participant gives an explantion in response to a question, based on prompts
 
-Uses wordcloud function from https://bl.ocks.org/jyucsiro/767539a876836e920e38bc80d2031ba7
+Uses wordcloud function based on https://bl.ocks.org/jyucsiro/767539a876836e920e38bc80d2031ba7
+
+ // Author: Justin Sulik
+ // Contact:
+ //  justin.sulik@gmail.com
+ //  twitter.com/justinsulik
+ //  github.com/justinsulik
+ //  justinsulik.com
+
 */
 
 

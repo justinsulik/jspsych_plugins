@@ -11,9 +11,15 @@ to do:
 - replace confidence enpoints with simple colors
 - first conf. rating: add thumb
 - remove requirement to move thumb
--
+*/
 
- */
+// Author: Justin Sulik
+// Contact:
+//  justin.sulik@gmail.com
+//  twitter.com/justinsulik
+//  github.com/justinsulik
+//  justinsulik.com
+
 
 jsPsych.plugins["boxtask"] = (function() {
 

@@ -1,4 +1,15 @@
 /*
+
+ // Author: Justin Sulik
+ // Contact:
+ //  justin.sulik@gmail.com
+ //  twitter.com/justinsulik
+ //  github.com/justinsulik
+ //  justinsulik.com
+
+ */
+
+/*
  * An update of jspsych-image-slider-response (by Josh de Leeuw) to include a dichotomous response (in addition to the slider)
  * a jspsych plugin for free response survey questions
  *

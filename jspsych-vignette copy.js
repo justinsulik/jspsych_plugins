@@ -1,5 +1,4 @@
-// Display a vignette to participants (for them to read)
-// Track key presses to see if e.g. they're copying the text
+
 
 jsPsych.plugins["vignette"] = (function() {
 

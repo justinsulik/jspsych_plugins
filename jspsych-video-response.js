@@ -1,11 +1,13 @@
-/* jspsych-video-response.js
- * Adapation of a plugin by Josh de Leeuw
- *
- * This plugin displays a video and asks for a slider response. The trial ends when the 'submit' button is clicked.
- *
- to do:
- background - black, so no blip when video restarts?
- only show slider after video played once
+/*
+  jsPsych plugin for displays a video and asks for a slider response. The trial ends when the 'submit' button is clicked.
+  Based on a plugin by Josh de Leeuw
+  Adapted by: Justin Sulik
+  Contact:
+   justin.sulik@gmail.com
+   justinsulik.com,
+   twitter.com/justinsulik
+   github.com/justinsulik
+
  */
 
 jsPsych.plugins['video-response'] = (function() {

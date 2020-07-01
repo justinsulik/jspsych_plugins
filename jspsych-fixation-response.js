@@ -1,10 +1,22 @@
+/*
+
+ // Author: Justin Sulik
+ // Contact:
+ //  justin.sulik@gmail.com
+ //  twitter.com/justinsulik
+ //  github.com/justinsulik
+ //  justinsulik.com
+
+ */
+
 /**
  * Show a fixation "+" that can randomly change color at a random time
- * By Justin Sulik, based on jspsych-html-keyboard-response by Josh de Leeuw
+ * based on jspsych-html-keyboard-response by Josh de Leeuw
  *
  * plugin for displaying a fixation stimulus and getting a keyboard response
  *
  **/
+
 
 
 jsPsych.plugins["fixation-response"] = (function() {

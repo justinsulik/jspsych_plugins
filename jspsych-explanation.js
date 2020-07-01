@@ -3,6 +3,18 @@
  * and then rate their own explanation
  */
 
+ /*
+  jsPsych plugin for Cognitive Reflection test
+
+  // Author: Justin Sulik
+  // Contact:
+  //  justin.sulik@gmail.com
+  //  twitter.com/justinsulik
+  //  github.com/justinsulik
+  //  justinsulik.com
+
+  */
+
 jsPsych.plugins["explanation"] = (function() {
 
   var plugin = {};

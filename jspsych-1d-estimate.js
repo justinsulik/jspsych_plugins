@@ -1,5 +1,12 @@
 //  requires d3.js and jstat to be loaded in the main experiment script
 
+// Author: Justin Sulik
+// Contact:
+//  justin.sulik@gmail.com
+//  twitter.com/justinsulik
+//  github.com/justinsulik
+//  justinsulik.com
+
 jsPsych.plugins["1d-estimate"] = (function() {
 
   var plugin = {};

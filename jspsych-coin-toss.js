@@ -1,5 +1,13 @@
 /*
- * Example plugin template
+ jsPsych plugin for coin toss task
+
+ // Author: Justin Sulik
+ // Contact:
+ //  justin.sulik@gmail.com
+ //  twitter.com/justinsulik
+ //  github.com/justinsulik
+ //  justinsulik.com
+
  */
 
 jsPsych.plugins["coin-toss"] = (function() {

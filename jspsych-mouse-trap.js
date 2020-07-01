@@ -1,5 +1,12 @@
 /*
- * Example plugin template
+  jsPsych plugin for the mouse-trap game (Brugger & Graves, 1997, Testing vs. believing hypotheses: Magical ideation in the judgement of contingencies. Cognitive Neuropsychiatry)
+ // Author: Justin Sulik
+ // Contact:
+ //  justin.sulik@gmail.com
+ //  twitter.com/justinsulik
+ //  github.com/justinsulik
+ //  justinsulik.com
+
  */
 
 jsPsych.plugins["mouse-trap"] = (function() {

@@ -1,12 +1,14 @@
-/**
- * jspsych-survey-likert
- * a jspsych plugin for measuring items on a likert scale
- *
- * Josh de Leeuw
- *
- * documentation: docs.jspsych.org
- *
- * customization: made labels clickable
+/*
+ jsPsych plugin for body typology task (based on emBODY task, https://doi.org/10.1073/pnas.1321664111)
+ LOAD P5.JS in the main experiment script
+
+ // Author: Justin Sulik
+ // Contact:
+ //  justin.sulik@gmail.com
+ //  twitter.com/justinsulik
+ //  github.com/justinsulik
+ //  justinsulik.com
+
  */
 
 jsPsych.plugins['paint'] = (function() {

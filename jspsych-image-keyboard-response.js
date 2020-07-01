@@ -1,17 +1,17 @@
-/**
+/*
 
-******
-updating the plugin so that a keyboard response ends the trial, but only after the image has been displayed
-******
+ // Author: Justin Sulik
+ // Contact:
+ //  justin.sulik@gmail.com
+ //  twitter.com/justinsulik
+ //  github.com/justinsulik
+ //  justinsulik.com
 
- * jspsych-image-keyboard-response
- * Josh de Leeuw
- *
- * plugin for displaying a stimulus and getting a keyboard response
- *
- * documentation: docs.jspsych.org
- *
- **/
+ */
+
+/*
+updating an existing plugin by Josh de Leeuw, so that a keyboard response ends the trial, but only after the image has been displayed
+*/
 
 
 jsPsych.plugins["image-keyboard-response"] = (function() {

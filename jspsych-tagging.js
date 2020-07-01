@@ -1,11 +1,15 @@
 /**
- * jspsych-tagging
- * a jspsych plugin for entering text field, with clickable prompts provided
+ * jsPsych plugin for entering text field, with clickable prompts provided
  * autocomplete based on https://www.w3schools.com/howto/howto_js_autocomplete.asp
- * Justin Sulik
- *
- */
 
+  // Author: Justin Sulik
+  // Contact:
+  //  justin.sulik@gmail.com
+  //  twitter.com/justinsulik
+  //  github.com/justinsulik
+  //  justinsulik.com
+
+  */
 
 jsPsych.plugins['tagging'] = (function() {
   var plugin = {};

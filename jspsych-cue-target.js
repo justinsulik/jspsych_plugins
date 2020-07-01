@@ -1,5 +1,13 @@
 /*
- * Example plugin template
+ jsPsych plugin for cue-target game
+
+ // Author: Justin Sulik
+ // Contact:
+ //  justin.sulik@gmail.com
+ //  twitter.com/justinsulik
+ //  github.com/justinsulik
+ //  justinsulik.com
+
  */
 
 jsPsych.plugins["cue-target"] = (function() {

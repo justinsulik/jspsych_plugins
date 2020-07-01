@@ -1,5 +1,5 @@
 /*
-Description: jsPsych plugin for a Bias Against Disconfirmatory Evidence (BADE) task
+Description: jsPsych plugin for Wason's 2-4-6 task
 Preferably load p5.min.js in the main experiment page (otherwise it will be downloaded from cdnjs.cloudflare.com)
 Author: Justin Sulik
 Contact:

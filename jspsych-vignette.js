@@ -1,5 +1,11 @@
-// Display a vignette to participants (for them to read)
-// Track key presses to see if e.g. they're copying the text
+
+// jsPsych plugin for displaying a vignette to participants; script tracks key presses to see if e.g. they're copying the text
+// Author: Justin Sulik
+// Contact:
+//  justin.sulik@gmail.com
+//  justinsulik.com,
+//  twitter.com/justinsulik
+//  github.com/justinsulik
 
 jsPsych.plugins["vignette"] = (function() {
 

@@ -1,6 +1,14 @@
-/**
-todo - put gradient labels nearer gradient
-on re-orient, zoom to top of canvas
+/*
+ jsPsych plugin for body typology task (based on emBODY task, https://doi.org/10.1073/pnas.1321664111)
+ LOAD D3.JS in the main experiment script
+
+ // Author: Justin Sulik
+ // Contact:
+ //  justin.sulik@gmail.com
+ //  twitter.com/justinsulik
+ //  github.com/justinsulik
+ //  justinsulik.com
+
  */
 
 jsPsych.plugins['paint'] = (function() {
