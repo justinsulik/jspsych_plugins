@@ -1,10 +1,6 @@
 /*
  * Presents participant with a question, gets them to respond with an explanation,
  * and then rate their own explanation
- */
-
- /*
-  jsPsych plugin for Cognitive Reflection test
 
   // Author: Justin Sulik
   // Contact:

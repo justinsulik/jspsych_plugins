@@ -1,5 +1,5 @@
 /*
- jsPsych plugin for coin toss task
+ jsPsych plugin for coin toss task based on van Prooijen et al. (2018) https://doi.org/10.1002/ejsp.2331
 
  // Author: Justin Sulik
  // Contact:

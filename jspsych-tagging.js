@@ -1,13 +1,13 @@
-/**
+/*
  * jsPsych plugin for entering text field, with clickable prompts provided
  * autocomplete based on https://www.w3schools.com/howto/howto_js_autocomplete.asp
 
-  // Author: Justin Sulik
-  // Contact:
-  //  justin.sulik@gmail.com
-  //  twitter.com/justinsulik
-  //  github.com/justinsulik
-  //  justinsulik.com
+  Author: Justin Sulik
+  Contact:
+   justin.sulik@gmail.com
+   twitter.com/justinsulik
+   github.com/justinsulik
+   justinsulik.com
 
   */
 

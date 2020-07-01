@@ -1,6 +1,6 @@
 
 /*
- jsPsych plugin for Cognitive Reflection test
+ jsPsych plugin for Cognitive Reflection test 
 
  // Author: Justin Sulik
  // Contact:

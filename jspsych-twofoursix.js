@@ -1,5 +1,5 @@
 /*
-Description: jsPsych plugin for Wason's 2-4-6 task
+Description: jsPsych plugin for Wason's 2-4-6 task (Wason, 1968, The Quarterly Journal of Experimental Psychology)
 Preferably load p5.min.js in the main experiment page (otherwise it will be downloaded from cdnjs.cloudflare.com)
 Author: Justin Sulik
 Contact:

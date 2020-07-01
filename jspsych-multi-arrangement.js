@@ -2,6 +2,8 @@
 
 /*
 Description: jsPsych plugin for sorting simuli in a 2D space (an 'arena') to derive a measure of similarty
+based on task in Kriegeskorte & Mur, 2012, Frontiers in psychology
+
 This requires a number of packages. Preferlably load them in the main experiment page,
 otherwise they'll be downloaded from cdnjs.cloudflare.com when the trial begins
 They are:

@@ -1,5 +1,5 @@
 /*
- jspsych plugin for Compound Remote Associate problems
+ jspsych plugin for Compound Remote Associate problems (Bowden & Jung-Beeman, 2003, Normative data for 144 compound remote associate problems. Behavior Research Methods, Instruments, & Computers)
 
  // Author: Justin Sulik
  // Contact:

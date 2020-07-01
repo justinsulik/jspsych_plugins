@@ -1,22 +1,18 @@
-/**
- * jspsych-dual-image-slider-response
- * a jspsych plugin for free response survey questions
- *
- * Adapted by Justin Sulik from the script by Josh de Leeuw, allowing two images to be rated
- * Only advances the trial if slider has been moved
- *
- */
+/*
 
- /*
+ jspsych plugin for free response survey questions
+    - only advances the trial if slider has been moved
+    - allows two images to be rated
+ Adapted from the script by Josh de Leeuw
 
-  // Author: Justin Sulik
-  // Contact:
-  //  justin.sulik@gmail.com
-  //  twitter.com/justinsulik
-  //  github.com/justinsulik
-  //  justinsulik.com
+  Adapted by: Justin Sulik
+  Contact:
+   justin.sulik@gmail.com
+   twitter.com/justinsulik
+   github.com/justinsulik
+   justinsulik.com
 
-  */
+*/
 
 
 jsPsych.plugins['dual-image-slider-response'] = (function() {

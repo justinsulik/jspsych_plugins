@@ -10,7 +10,7 @@
  */
 
 /**
- * Show a fixation "+" that can randomly change color at a random time
+ * Show a fixation "+" that can randomly change color at a random time (as an attention check)
  * based on jspsych-html-keyboard-response by Josh de Leeuw
  *
  * plugin for displaying a fixation stimulus and getting a keyboard response

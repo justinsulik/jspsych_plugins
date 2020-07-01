@@ -1,5 +1,5 @@
 /*
- jsPsych plugin for cue-target game
+ jsPsych plugin for cue-target game (Sulik & Lupyan, 2018, JEP:G)
 
  // Author: Justin Sulik
  // Contact:

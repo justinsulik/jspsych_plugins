@@ -2,6 +2,8 @@
 
 /*
 Description: jsPsych plugin for sorting simuli in a 2D space (an 'arena') to derive a measure of similarty
+based on task in Kriegeskorte & Mur, 2012, Frontiers in psychology
+
 Preferably load d3.min.js in the main experiment page (otherwise it will be downloaded from cdnjs.cloudflare.com when the trial begins)
 
 Author: Justin Sulik
